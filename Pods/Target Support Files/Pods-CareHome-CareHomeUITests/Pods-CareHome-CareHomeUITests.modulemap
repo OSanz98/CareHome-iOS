@@ -1,0 +1,6 @@
+framework module Pods_CareHome_CareHomeUITests {
+  umbrella header "Pods-CareHome-CareHomeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
